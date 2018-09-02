@@ -1,2 +1,2 @@
-var test = 1;
-exports.test = test;
+var test = "Hello World";
+alert(test);
